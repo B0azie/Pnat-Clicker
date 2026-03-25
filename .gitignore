@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+dist/
+
+# IDE
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Test and temporary files
+*.tmp
+*.log
